@@ -1,0 +1,22 @@
+Vacancy Number: 1
+Designation: Manager
+Job Type: Full-time
+Staff Name: Jane Doe
+Joining Date: 04/01/2025
+Qualification: Mtech
+Appointed By: HR
+Joined: true
+Salary: 90000.0
+Weekly Hours: 45
+
+------------------------------
+Vacancy Number: 2
+Designation: Staff
+Job Type: Part-time
+Staff Name: 
+Joining Date: 
+Qualification: 
+Appointed By: 
+Joined: false
+
+------------------------------
